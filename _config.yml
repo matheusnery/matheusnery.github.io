@@ -2,7 +2,7 @@
 language: en
 
 # Header
-navname: Bentham's Blog
+navname: Matheus's Blog
 
 # navigatior items
 nav:
@@ -15,7 +15,7 @@ nav:
 favicon: /favicon.ico
 
 # Profile
-nickname: Jeremy Bentham
+nickname: Matheus Nery
 
 ### this variable is MarkDown form.
 description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** <br>Fusce eget urna vitae velit *eleifend interdum at ac* nisi.
@@ -26,7 +26,7 @@ avatar: /image/avatar.jpeg
 ## Complete url after key words.
 ## Unused key can be commented out.
 links:
-  Blog: /
+  Blog: 
 #  Category:
 #  Tags: 
 #  Link:
@@ -36,8 +36,8 @@ links:
 #  Gallary:
 #  RSS:
 #  AliPay:
-  ZhiHu: https://www.zhihu.com/people/sirice
-#  LinkedIn:
+#  ZhiHu: https://www.zhihu.com/people/sirice
+  LinkedIn: https://linkedin.com/in/matheusnery
 #  FaceBook:
 #  Twitter:
 #  Skype:
@@ -46,13 +46,13 @@ links:
 #  Sketch:
 #  Gitlab:
 #  Dribble:
-  Instagram:
+  Instagram: instagram.com/_mathnery
   Reddit:
 #  YouTube:
 #  QQ:
 #  Weibo:
 #  WeChat:
-  Github: https://github.com/Siricee
+  Github: https://github.com/matheusnery
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
